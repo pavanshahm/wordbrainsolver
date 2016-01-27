@@ -1,3 +1,8 @@
+#include <string>
+#include <vector>
+#include <fstream>
+#include <queue>
+
 #include "dict_trie.h"
 
 int dict_trie::node_depth(Node *node) {
